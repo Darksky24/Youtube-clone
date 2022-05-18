@@ -1,7 +1,30 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Youtube Clone
 
+The front-end of youtube page
+
+## Acknowledgements
+ - The main source is in gh branch
+ - [Youtube front-end clone](https://darksky24.github.io/youtube-clone/)
+
+## Features
+
+- SPA
+- Responsive
+- Fullscreen mode
+- Cross platform
+
+
+## Description
+- This project aims to practice how to use react with responsiveness.
+- The search bar can be used to transfer to the search page which will return a list of props videos
+- SPA is applied in this website
+- There are some cons: Does not return the true query of youtube and design is quite simple 
+## Description
+- This project aims to practice how to use react with responsiveness.
+- The search bar can be used to transfer to the search page which will return a list of props videos
+- SPA is applied in this website
+- There are some cons: Does not return the true query of youtube and design is quite simple 
 ## Available Scripts
 
 In the project directory, you can run:
