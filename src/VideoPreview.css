@@ -1,0 +1,30 @@
+.VideoPreview{
+  margin-bottom: 40px;
+  width:270px;
+}
+.VideoPreview_thumbnail{
+  height:140px;
+  width:250px;
+}
+.VideoPreview_info{
+  display:flex;
+  margin-top:10px;
+  padding-right: 30px;
+}
+
+.VideoPreview_videotext{
+  margin-left:15px;
+}
+.VideoPreview_videotext >h4{
+  font-size:14px;
+  margin-bottom:5px;
+}
+.VideoPreview_videotext >p{
+  font-size:14px;
+  color:gray;
+
+}
+.VideoPreview_avatar{
+  height:30px !important;
+  width:30px  !important;
+}
