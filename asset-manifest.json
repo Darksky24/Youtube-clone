@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/youtube-clone/static/css/main.b781c392.css",
+    "main.js": "/youtube-clone/static/js/main.3cfe541b.js",
+    "static/js/787.7efd31bd.chunk.js": "/youtube-clone/static/js/787.7efd31bd.chunk.js",
+    "static/media/thumbnail-6.webp": "/youtube-clone/static/media/thumbnail-6.ecd9765c2c689e11e34e.webp",
+    "static/media/thumbnail-1.webp": "/youtube-clone/static/media/thumbnail-1.bb942eddb573c986ed15.webp",
+    "static/media/thumbnail-4.webp": "/youtube-clone/static/media/thumbnail-4.515c6eefa6c76fbdfe76.webp",
+    "static/media/dog.jpg": "/youtube-clone/static/media/dog.51af1c1fc603af7d33db.jpg",
+    "static/media/thumbnail-5.webp": "/youtube-clone/static/media/thumbnail-5.f6920c72353833d19e41.webp",
+    "index.html": "/youtube-clone/index.html",
+    "main.b781c392.css.map": "/youtube-clone/static/css/main.b781c392.css.map",
+    "main.3cfe541b.js.map": "/youtube-clone/static/js/main.3cfe541b.js.map",
+    "787.7efd31bd.chunk.js.map": "/youtube-clone/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b781c392.css",
+    "static/js/main.3cfe541b.js"
+  ]
+}
